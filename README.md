@@ -4,4 +4,4 @@ This simple script fetches country data from the World Bank API and outputs it i
 
 ## Usage
 
-$ `php fetch.php`
+`php fetch.php`
